@@ -45,4 +45,4 @@ target_wrapper.*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
-./vs/
+./.vs/
