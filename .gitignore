@@ -28,7 +28,7 @@ qrc_*.cpp
 ui_*.h
 Makefile*
 *build-*
-.vs
+.vs/*
 
 
 # Qt unit tests
