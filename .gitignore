@@ -28,7 +28,6 @@ qrc_*.cpp
 ui_*.h
 Makefile*
 *build-*
-.vs/*
 
 
 # Qt unit tests
@@ -46,3 +45,4 @@ target_wrapper.*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+./vs/
